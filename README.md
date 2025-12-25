@@ -2,8 +2,9 @@
 
 To build smarter, faster, safer AI that fundamentally shifts how technology serves people. 
 
-The Φ Framework (pFramework), extends existing mathematical insights (including recent Google research) into a full architecture that converges AI logic, context, and hardware efficiency — repository coming soon.
+The Φ Framework (pFramework), extends existing mathematical insights (including recent Google research) into a full architecture that converges AI logic, context, and hardware efficiency 
+— repository coming soon | DOI: https://zenodo.org/records/17219223
 
 
-Turn based conversation novelty benchmarking framework relative to internal AI dynamics
-[ https://github.com/Kaleb-Wasierski/mms ]  
+Turn based conversation novelty benchmarking framework relative to internal AI dynamics & human inputs:
+[https://github.com/Kaleb-Wasierski/mms]

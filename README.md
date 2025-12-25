@@ -8,6 +8,9 @@ The Φ Framework (pFramework), extends existing mathematical insights (including
 — repository coming soon | DOI: https://zenodo.org/records/17219223
 
 
+### Multi-turn Metric Suite (MMS)
 Turn based conversation novelty benchmarking framework relative to internal AI dynamics & human inputs:
+
 [https://github.com/Kaleb-Wasierski/mms]
+
 - A derivative of the core pFramework.
